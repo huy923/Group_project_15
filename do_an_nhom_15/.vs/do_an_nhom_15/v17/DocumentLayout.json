@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\udw\\do_an_nhom_15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\home\\button.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\home\\button.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|d:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\models\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379D19FF-FE8E-4C02-95CE-0E7FBD11ED9A}|do_an_nhom_15\\do_an_nhom_15.csproj|solutionrelative:do_an_nhom_15\\models\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:39:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Button.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Button.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Button.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Button.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Button.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:47:09.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:41:23.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:37:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:27:25.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:27:16.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T03:52:49.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\appsettings.json",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\appsettings.json",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\appsettings.json",
+              "RelativeToolTip": "do_an_nhom_15\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T03:56:17.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Program.cs",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Program.cs",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Program.cs",
+              "RelativeToolTip": "do_an_nhom_15\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:26:08.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:48:00.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:48:02.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T05:23:15.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Areas\\admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Areas\\admin\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:41:32.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:41:15.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "do_an_nhom_15\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:41:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "do_an_nhom_15\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-06T04:25:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoffeeShopDbContext.cs",
+              "DocumentMoniker": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Models\\CoffeeShopDbContext.cs",
+              "RelativeDocumentMoniker": "do_an_nhom_15\\Models\\CoffeeShopDbContext.cs",
+              "ToolTip": "D:\\project\\udw\\do_an_nhom_15\\do_an_nhom_15\\Models\\CoffeeShopDbContext.cs",
+              "RelativeToolTip": "do_an_nhom_15\\Models\\CoffeeShopDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T04:21:44.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
